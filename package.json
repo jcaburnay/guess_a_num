@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "Guess a Number",
   "main": "index.js",
+  "homepage": "https://nongbi.github.io/responsive_portfolio",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Jonathan Caburnay",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "pkg": "^4.3.5"
+  }
 }
