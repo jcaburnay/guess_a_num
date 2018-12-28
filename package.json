@@ -1,0 +1,11 @@
+{
+  "name": "number_guesser",
+  "version": "1.0.0",
+  "description": "Guess a Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Caburnay",
+  "license": "ISC"
+}
